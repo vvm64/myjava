@@ -1,4 +1,4 @@
-/*
+/*12
  *  Простой клиент
 1. Run Server
 2. Run Client

@@ -1,6 +1,6 @@
  package simpleChat.util;
 
- /**
+ /**12
 * CodepagePrintStream.java
 *
 * Copyright (C) 1998-2000 COMITA Ltd. All Rights Reserved.
